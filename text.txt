@@ -1,1 +1,1 @@
-Cap nhat file text,txt sau test_merge
+giai quyet conflict 
